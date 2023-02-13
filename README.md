@@ -51,5 +51,5 @@
 
 <div align="center">
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheepyis&show_icons=true&theme=radical)
+!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=sheepyis&show_icons=true&theme=radical)
 </div>
