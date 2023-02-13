@@ -48,3 +48,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 </div>
+
+<div align="center">
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheepyis&show_icons=true&theme=radical)
+</div>
