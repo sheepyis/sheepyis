@@ -54,11 +54,3 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 </div>
-
-<div align="center">
-<br>
-<h2>:trophy: Baekjoon solved rank</h2>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zx9086)](https://solved.ac/zx9086)
- 
-</div>
